@@ -1,5 +1,9 @@
 <template>
     <main>
+        <div class='title'>
+            <span>Nielsen / Google Adwords</span>
+            <span>Designated Market Areas</span>
+        </div>
         <div class='tooltip' v-html='tooltipHtml' />
     </main>
 </template>

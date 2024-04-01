@@ -22,6 +22,20 @@
     pointer-events: none;
 }
 
+.title {
+    position: fixed;
+    top: min(24px, 10vw);
+    left: min(24px, 10vw);
+    right: min(24px, 10vw);
+    font-family: monospace;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #ffffff77;
+    display: flex;
+    justify-content: space-between;
+    pointer-events: none;
+}
+
 .tooltip {
     position: fixed;
     bottom: min(24px, 10vw);
