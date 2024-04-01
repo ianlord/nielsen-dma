@@ -1,5 +1,7 @@
 # Nielsen DMA Map
 
+<img src="./public/assets/screenshot.png" />
+
 A map of the Nielen [Designated Marketing Areas](http://en.wikipedia.org/wiki/Media_market). Also is corresponds to the Google Ads (AdWords) metropolitan areas. Hover over for data related to each area. 
 
 ### Recommended IDE Setup
